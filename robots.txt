@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-0eidmz.idcash88kyd.cyou/sitemap.xml
